@@ -10,11 +10,7 @@
 
 ## About
 
-BSc in Computer and Automation Engineering, now pursuing an MSc in Artificial Intelligence and Robotics at La Sapienza University of Rome. My academic path spans control theory, machine learning, computer vision, and robotic systems, with a strong interest in understanding how intelligent agents learn to act in complex environments.
-
-On the AI side I work on **Reinforcement Learning**, particularly hierarchical and goal-conditioned approaches, and **generative models** for cross-domain perception tasks. On the robotics side my focus is on **safety-critical multi-robot coordination** using formal control tools such as Control Barrier Functions, and **autonomous quadrotor systems** combining vision pipelines with cascaded control architectures.
-
-Alongside my studies I have been a private tutor in Mathematics, Physics, Computer Science and Programming since 2017, which has sharpened both my understanding of fundamentals and my ability to communicate technical concepts clearly.
+MSc student in Artificial Intelligence and Robotics at La Sapienza University of Rome, with a BSc in Computer and Automation Engineering. I work across machine learning, computer vision and robotic systems, and I tend to go deep into whatever I build. Private tutor in Maths, Physics and CS since 2017.
 
 ---
 
@@ -54,25 +50,22 @@ Alongside my studies I have been a private tutor in Mathematics, Physics, Comput
 
 ## Tech Stack
 
-**Languages**
-<table><tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></td><td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></td><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></td><td><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"></td><td><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></td></tr></table>
-
-**ML / AI**
-<table><tr><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"></td><td><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></td><td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></td><td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"></td><td><img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"></td></tr></table>
-
-**Robotics / Control**
-<table><tr><td><img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"></td><td><img src="https://img.shields.io/badge/CoppeliaSim-333333?style=flat-square"></td><td><img src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"></td></tr></table>
-
-**Tools**
-<table><tr><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></td><td><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"></td><td><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td></tr></table>
+<table width="100%">
+<thead><tr><th width="20%">Category</th><th>Tools</th></tr></thead>
+<tbody>
+<tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></td></tr>
+<tr><td><b>ML / AI</b></td><td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"></td></tr>
+<tr><td><b>Robotics / Control</b></td><td><img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/CoppeliaSim-333333?style=flat-square"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td></tr>
+</tbody>
+</table>
 
 ---
 
 ## Education
 
-| | |
-|---|---|
-| 🎓 **MSc** Artificial Intelligence & Robotics | La Sapienza University of Rome *(in progress)* |
-| 🎓 **BSc** Computer & Automation Engineering | La Sapienza University of Rome |
+🎓 **MSc** Artificial Intelligence & Robotics — La Sapienza University of Rome *(in progress)*
+
+🎓 **BSc** Computer & Automation Engineering — La Sapienza University of Rome
 
 → Full details and project write-ups on [my personal website](https://alessandro-carotenuto.github.io)
