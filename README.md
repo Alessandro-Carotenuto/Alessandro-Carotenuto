@@ -67,27 +67,29 @@ Alongside my studies I have been a private tutor in Mathematics, Physics, Comput
 
 ## Tech Stack
 
-<table width="100%">
-<thead><tr><th width="20%">Category</th><th>Badges</th></tr></thead>
-<tbody>
-<tr>
-  <td><b>Languages</b></td>
-  <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"></td>
-</tr>
-<tr>
-  <td><b>ML / AI</b></td>
-  <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black"></td>
-</tr>
-<tr>
-  <td><b>Robotics / Control</b></td>
-  <td><img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/CoppeliaSim-333333?style=flat-square"> <img src="https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white"></td>
-</tr>
-<tr>
-  <td><b>Tools</b></td>
-  <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></td>
-</tr>
-</tbody>
-</table>
+**Languages**
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+
+**ML / AI**
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![WandB](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) |
+
+**Robotics / Control**
+
+| | | |
+|:---:|:---:|:---:|
+| ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white) | ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-333333?style=flat-square) | ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white) |
+
+**Tools**
+
+| | | |
+|:---:|:---:|:---:|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
 
 ---
 
