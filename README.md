@@ -36,6 +36,15 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 </tbody>
 </table>
 
+### Software Development
+<table width="100%">
+<colgroup><col width="28%"><col width="46%"><col width="26%"></colgroup>
+<thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
+<tbody>
+<tr><td><a href="https://github.com/Alessandro-Carotenuto/Terminal-Practice-CppGame"><b>Terminal Practice CppGame</b></a></td><td><img src="https://img.shields.io/badge/OOP%20Design-00599C?style=flat-square"> <img src="https://img.shields.io/badge/RAII%20%2F%20Smart%20Pointers-1A5276?style=flat-square"> <img src="https://img.shields.io/badge/Virtual%20Dispatch-154360?style=flat-square"> <img src="https://img.shields.io/badge/Game%20Loop-2C3E50?style=flat-square"></td><td><img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Windows%20API-0078D6?style=flat-square&logo=windows&logoColor=white"></td></tr>
+</tbody>
+</table>
+
 ### Work in Progress
 <table width="100%">
 <colgroup><col width="28%"><col width="46%"><col width="26%"></colgroup>
