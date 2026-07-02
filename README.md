@@ -2,7 +2,7 @@
 
 **MSc Student in Artificial Intelligence & Robotics** · La Sapienza University of Rome
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-alessandro--carotenuto.github.io-yellow?style=flat-square&logo=github)](https://alessandro-carotenuto.github.io)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-alessandro--carotenuto.github.io-FFBE00?style=flat-square&logo=github&logoColor=black)](https://alessandro-carotenuto.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro%20Carotenuto-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alessandro-carotenuto-airo)
 [![Email](https://img.shields.io/badge/Email-carotenuto.alessandro1499@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:carotenuto.alessandro1499@gmail.com)
 
