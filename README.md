@@ -18,7 +18,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 
 ### Artificial Intelligence
 <table width="100%">
-<colgroup><col width="40%"><col width="35%"><col width="25%"></colgroup>
+<colgroup><col width="50%"><col width="25%"><col width="25%"></colgroup>
 <thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
 <tbody>
 <tr><td align="center"><a href="https://git.new/WGHRLex"><b>World Graph Hierarchical RL</b></a><br><br><a href="https://git.new/WGHRLex"><img src="assets/gifs/reinforce cropped.gif" width="160"></a></td><td><img src="assets/badges/reinforcement-learning.svg"> <img src="assets/badges/hierarchical-rl.svg"> <img src="assets/badges/variational-autoencoder.svg"> <img src="assets/badges/unsupervised-learning.svg"></td><td><img src="assets/badges/pytorch.svg"> <img src="assets/badges/gymnasium.svg"></td></tr>
@@ -28,7 +28,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 
 ### Robotics
 <table width="100%">
-<colgroup><col width="40%"><col width="35%"><col width="25%"></colgroup>
+<colgroup><col width="50%"><col width="25%"><col width="25%"></colgroup>
 <thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
 <tbody>
 <tr><td align="center"><a href="https://git.new/CBFcoord"><b>Distributed Multi-Robot Collision Avoidance</b></a><br><br><a href="https://git.new/CBFcoord"><img src="https://raw.githubusercontent.com/TonyDorek/eir-part_4/main/img/COVER%20GIF.gif" width="200"></a></td><td><img src="assets/badges/multi-robot-systems.svg"> <img src="assets/badges/control-barrier-functions.svg"> <img src="assets/badges/distributed-control.svg"> <img src="assets/badges/swarm-intelligence.svg"></td><td><img src="assets/badges/matlab.svg"> <img src="assets/badges/simulink.svg"></td></tr>
@@ -38,7 +38,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 
 ### Software Development
 <table width="100%">
-<colgroup><col width="40%"><col width="35%"><col width="25%"></colgroup>
+<colgroup><col width="50%"><col width="25%"><col width="25%"></colgroup>
 <thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
 <tbody>
 <tr><td align="center"><a href="https://github.com/SapienzaInteractiveGraphicsCourse/final-project-intentionallyblankname"><b>Mecha-Basketball 3D WebGame</b></a><br><br><a href="https://github.com/SapienzaInteractiveGraphicsCourse/final-project-intentionallyblankname"><img src="https://raw.githubusercontent.com/SapienzaInteractiveGraphicsCourse/final-project-intentionallyblankname/main/readme%20assets/mechabasketball.gif" width="160"></a></td><td><img src="assets/badges/3d-graphics.svg"> <img  src="assets/badges/procedural-modeling.svg"> <img  src="assets/badges/real-time-rendering.svg"> <img src="assets/badges/game-loop.svg"></td><td><img src="assets/badges/javascript.svg"> <img src="assets/badges/three-js.svg"> <img src="assets/badges/vite.svg"></td></tr>
@@ -48,7 +48,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 
 ### Work in Progress
 <table width="100%">
-<colgroup><col width="40%"><col width="35%"><col width="25%"></colgroup>
+<colgroup><col width="50%"><col width="25%"><col width="25%"></colgroup>
 <thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
 <tbody>
 <tr><td><b>Deep Learning and ML Framework from Scratch</b></td><td><img src="assets/badges/autograd-engine.svg"> <img src="assets/badges/deep-learning.svg"> <img src="assets/badges/classic-ml.svg"></td><td><img src="assets/badges/cpp17.svg"> <img src="assets/badges/pybind11.svg"> <img src="assets/badges/onnx.svg"></td></tr>
