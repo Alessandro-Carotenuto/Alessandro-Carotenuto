@@ -51,6 +51,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 <colgroup><col width="50%"><col width="25%"><col width="25%"></colgroup>
 <thead><tr><th>Project</th><th>Topics</th><th>Tools</th></tr></thead>
 <tbody>
+<tr><td><a href="https://github.com/Alessandro-Carotenuto/InverseKinematicsRP"><b>Manipulator Inverse Kinematics</b></a></td><td><img src="assets/badges/kinematics-dynamics.svg"></td><td><img src="assets/badges/cpp.svg"> <img src="assets/badges/cmake.svg"> <img src="assets/badges/ros2.svg"> <img src="assets/badges/eigen.svg"></td></tr>
 <tr><td><b>Deep Learning and ML Framework from Scratch</b></td><td><img src="assets/badges/autograd-engine.svg"> <img src="assets/badges/deep-learning.svg"> <img src="assets/badges/classic-ml.svg"></td><td><img src="assets/badges/cpp17.svg"> <img src="assets/badges/pybind11.svg"> <img src="assets/badges/onnx.svg"></td></tr>
 <tr><td><a href="https://github.com/Alessandro-Carotenuto/Robotics-FASE-Toolbox"><b>Robotics FASE Toolbox</b></a></td><td><img src="assets/badges/symbolic-computing.svg"> <img src="assets/badges/kinematics-dynamics.svg"> <img src="assets/badges/mobile-robotics.svg"> <img src="assets/badges/lie-brackets.svg"></td><td><img src="assets/badges/python.svg"> <img src="assets/badges/sympy.svg"></td></tr>
 </tbody>
