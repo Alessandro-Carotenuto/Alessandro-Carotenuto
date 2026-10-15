@@ -6,6 +6,10 @@
 [![LinkedIn](assets/badges/linkedin-alessandro-carotenuto.svg)](https://www.linkedin.com/in/alessandro-carotenuto-airo)
 [![Email](assets/badges/email-carotenuto-alessandro1499-gmail-com.svg)](mailto:carotenuto.alessandro1499@gmail.com)
 
+[![Artificial Intelligence Projects](https://img.shields.io/badge/Artificial_Intelligence_Projects-3-blue)](#artificial-intelligence)
+[![Robotics & Control Projects](https://img.shields.io/badge/Robotics_%26_Control_Projects-2-green)](#robotics)
+[![Software Development Projects](https://img.shields.io/badge/Software_Development_Projects-2-purple)](#software-development)
+
 ---
 
 ## About
@@ -34,7 +38,7 @@ MSc student in Artificial Intelligence and Robotics at La Sapienza University of
 <tbody>
 <tr><td align="center"><a href="https://git.new/CBFcoord"><b>Distributed Multi-Robot Collision Avoidance</b></a><br><br><a href="https://git.new/CBFcoord"><img src="https://raw.githubusercontent.com/TonyDorek/eir-part_4/main/img/COVER%20GIF.gif" width="250"></a></td><td><img src="assets/badges/multi-robot-systems.svg"> <img src="assets/badges/control-barrier-functions.svg"> <img src="assets/badges/distributed-control.svg"> <img src="assets/badges/swarm-intelligence.svg"></td><td><img src="assets/badges/matlab.svg"> <img src="assets/badges/simulink.svg"></td></tr>
 <tr><td align="center"><a href="https://git.new/quadland"><b>Autonomous Quadrotor Vision-Based Landing</b></a><br><br><a href="https://git.new/quadland"><img src="https://raw.githubusercontent.com/SandriLeonardo/quadrotor_landing_on_mobile_platform/main/README%20assets/Cover%20Gif.gif" width="250"></a></td><td><img src="assets/badges/quadrotor-control.svg"> <img src="assets/badges/computer-vision.svg"> <img src="assets/badges/kalman-filter.svg"> <img src="assets/badges/cascaded-pid.svg"></td><td><img src="assets/badges/matlab.svg"> <img src="assets/badges/simulink.svg"> <img src="assets/badges/coppeliasim.svg"></td></tr>
-<tr><td><a href="https://github.com/Alessandro-Carotenuto/InverseKinematicsRP"><b>Manipulator Inverse Kinematics</b></a></td><td><img src="assets/badges/kinematics-dynamics.svg"></td><td><img src="assets/badges/cpp.svg"> <img src="assets/badges/cmake.svg"> <img src="assets/badges/ros2.svg"> <img src="assets/badges/eigen.svg"></td></tr>
+<tr><td align="center"><a href="https://github.com/Alessandro-Carotenuto/InverseKinematicsRP"><b>Manipulator Inverse Kinematics</b></a></td><td><img src="assets/badges/kinematics-dynamics.svg"></td><td><img src="assets/badges/cpp.svg"> <img src="assets/badges/cmake.svg"> <img src="assets/badges/ros2.svg"> <img src="assets/badges/eigen.svg"></td></tr>
 </tbody>
 </table>
 
