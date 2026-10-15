@@ -7,14 +7,14 @@
 [![Email](assets/badges/email-carotenuto-alessandro1499-gmail-com.svg)](mailto:carotenuto.alessandro1499@gmail.com)
 
 [![Artificial Intelligence Projects](https://img.shields.io/badge/Artificial_Intelligence_Projects-3-blue)](#artificial-intelligence)
-[![Robotics & Control Projects](https://img.shields.io/badge/Robotics_%26_Control_Projects-2-green)](#robotics)
+[![Robotics & Control Projects](https://img.shields.io/badge/Robotics_%26_Control_Projects-3-green)](#robotics)
 [![Software Development Projects](https://img.shields.io/badge/Software_Development_Projects-2-purple)](#software-development)
 
 ---
 
 ## About
 
-MSc student in Artificial Intelligence and Robotics at La Sapienza University of Rome, with a BSc in Computer and Automation Engineering. I work across machine learning, computer vision and robotic systems, and I tend to go deep into whatever I build. Private tutor in Maths, Physics and CS since 2017.
+I’m pursuing an MSc in **Artificial Intelligence & Robotics** at **Sapienza**, where I also work as an **AI & Robotics Engineer** with the **Sapienza Technology Team**. With a background in Computer and Automation Engineering, I build research-driven systems from the underlying ideas to working prototypes. My interests span **deep learning, reinforcement learning, computer vision and robotics**. Since 2017, I’ve also tutored students in Mathematics, Physics and Computer Science.
 
 ---
 
