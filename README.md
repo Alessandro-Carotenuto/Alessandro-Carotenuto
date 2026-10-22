@@ -1,4 +1,4 @@
-﻿# Alessandro Carotenuto
+# Alessandro Carotenuto
 
 **MSc Student in Artificial Intelligence & Robotics** · La Sapienza University of Rome
 
@@ -27,7 +27,7 @@ I’m pursuing an MSc in **Artificial Intelligence & Robotics** at **Sapienza**,
 <tbody>
 <tr><td align="center"><a href="https://git.new/WGHRLex"><b>World Graph Hierarchical RL</b></a><br><br><a href="https://git.new/WGHRLex"><img src="assets/gifs/reinforce cropped.gif" width="250"></a></td><td><img src="assets/badges/reinforcement-learning.svg"> <img src="assets/badges/hierarchical-rl.svg"> <img src="assets/badges/variational-autoencoder.svg"> <img src="assets/badges/unsupervised-learning.svg"></td><td><img src="assets/badges/pytorch.svg"> <img src="assets/badges/gymnasium.svg"></td></tr>
 <tr><td align="center"><a href="https://git.new/synsatTT"><b>Ground-to-Aerial Image Synthesis</b></a><br><br><a href="https://git.new/synsatTT"><img src="https://raw.githubusercontent.com/Alessandro-Carotenuto/synt_satellite_vqgan_from_TT/main/readme%20assets/G2A%202.png" width="250"></a></td><td><img src="assets/badges/computer-vision.svg"> <img src="assets/badges/vq-gan.svg"> <img src="assets/badges/transformers.svg"> <img src="assets/badges/autoregressive-generation.svg"></td><td><img src="assets/badges/pytorch.svg"> <img src="assets/badges/huggingface.svg"></td></tr>
-<tr><td align="center"><a href="https://github.com/Alessandro-Carotenuto/Hyperspectral-Neural-Networks-Project"><b>Few-Shot Hyperspectral Image Classification</b></a></td><td><img src="assets/badges/computer-vision.svg"> <img src="assets/badges/transformers.svg"> <img src="assets/badges/few-shot-classification.svg"></td><td><img src="assets/badges/python.svg"> <img src="assets/badges/pytorch.svg"> <img src="assets/badges/numpy.svg"> <img src="assets/badges/scikit-learn.svg"></td></tr>
+<tr><td align="center"><a href="https://github.com/Alessandro-Carotenuto/Hyperspectral-Neural-Networks-Project"><b>Few-Samples Hyperspectral Image Classification and Adaptive Band Selection</b></a><br><br><a href="https://github.com/Alessandro-Carotenuto/Hyperspectral-Neural-Networks-Project"><img src="assets/gifs/hyperspectral-fullband-cover-cropped.gif" width="250" alt="Animated, index-style crop of the Pavia University hyperspectral classification"></a></td><td><img src="assets/badges/computer-vision.svg"> <img src="assets/badges/transformers.svg"> <img src="assets/badges/few-shot-classification.svg"></td><td><img src="assets/badges/python.svg"> <img src="assets/badges/pytorch.svg"> <img src="assets/badges/numpy.svg"> <img src="assets/badges/scikit-learn.svg"></td></tr>
 </tbody>
 </table>
 
