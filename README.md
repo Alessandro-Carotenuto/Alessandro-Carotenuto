@@ -14,7 +14,7 @@
 
 ## About
 
-I’m pursuing an MSc in **Artificial Intelligence & Robotics** at **Sapienza**, where I work as an **AI & Robotics Engineer** with the **Sapienza Technology Team** and am also a member of the **SASA Tech Team**. With a background in Computer and Automation Engineering, I build research-driven systems from the underlying ideas to working prototypes. My interests span **deep learning, reinforcement learning, computer vision, robotics and Earth observation**. Since 2017, I’ve also tutored students in Mathematics, Physics and Computer Science.
+I’m pursuing an MSc in **Artificial Intelligence & Robotics** at **Sapienza**, where I also work as an **AI & Robotics Engineer**. With a background in Computer and Automation Engineering, I build research-driven systems from the underlying ideas to working prototypes. My interests span **deep learning, reinforcement learning, computer vision, robotics and Earth observation**. Since 2017, I’ve also tutored students in Mathematics, Physics and Computer Science. I’m part of the **Software area of the Sapienza Technology Team**.
 
 ---
 
